@@ -1,0 +1,90 @@
+<Levels>
+  <Level Number="1">
+    <Object Name="Heart" XPosition="677" YPosition="13">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="677" YPosition="13">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="573" YPosition="27">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+<<<<<<< local
+    <Object Name="Enemy Bug" XPosition="416" YPosition="71">
+      <Rectangle X="612" Y="0" Width="101" Height="171" />
+=======
+    <Object Name="Heart" XPosition="573" YPosition="27">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+>>>>>>> other
+    </Object>
+    <Object Name="Heart" XPosition="504" YPosition="34">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="504" YPosition="34">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="504" YPosition="34">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="395" YPosition="8">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" XPosition="395" YPosition="8">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Key" XPosition="140" YPosition="12">
+      <Rectangle X="918" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Key" XPosition="140" YPosition="12">
+      <Rectangle X="918" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Princess Girl" XPosition="704" YPosition="162">
+      <Rectangle X="408" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Princess Girl" XPosition="704" YPosition="162">
+      <Rectangle X="408" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Horn Girl" XPosition="587" YPosition="177">
+      <Rectangle X="306" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Cat Girl" XPosition="485" YPosition="173">
+      <Rectangle X="204" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Cat Girl" XPosition="485" YPosition="173">
+      <Rectangle X="204" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Boy" XPosition="338" YPosition="30">
+      <Rectangle X="102" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Gem Green" XPosition="23" YPosition="15">
+      <Rectangle X="714" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Gem Blue" XPosition="250" YPosition="20">
+      <Rectangle X="510" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="36" YPosition="210">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="118" YPosition="214">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="235" YPosition="213">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="235" YPosition="213">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="340" YPosition="211">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="340" YPosition="211">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Grass Block" XPosition="340" YPosition="211">
+      <Rectangle X="816" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Chest Closed" XPosition="365" YPosition="175">
+      <Rectangle X="0" Y="172" Width="101" Height="171" />
+    </Object>
+  </Level>
+</Levels>

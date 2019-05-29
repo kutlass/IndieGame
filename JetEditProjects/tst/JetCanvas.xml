@@ -1,0 +1,142 @@
+<Levels>
+  <CabElements>
+    <CabElement FileName="PlanetCute.png" ContentType="SpriteSheet" />
+    <CabElement FileName="dhalsim-s4.png" ContentType="BackgroundImage" />
+    <CabElement FileName="Maid with the Flaxen Hair.mp3" ContentType="BackgroundSong" />
+    <CabElement FileName="JetCanvas.xml" ContentType="CanvasXml" />
+  </CabElements>
+  <Level Number="1">
+    <Object Name="Dirt Block" Type="Terrain" XPosition="202" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="303" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="404" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="404" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="505" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="0" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="101" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="606" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="606" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="707" YPosition="342">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="707" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="707" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="606" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="505" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="404" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="303" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="202" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="101" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Dirt Block" Type="Terrain" XPosition="0" YPosition="513">
+      <Rectangle X="306" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="0" YPosition="342">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="0" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="101" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="202" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="303" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="101" YPosition="342">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="404" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="505" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="606" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="707" YPosition="342">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="707" YPosition="513">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="606" YPosition="342">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="606" YPosition="342">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Tree Short" Type="Terrain" XPosition="808" YPosition="0">
+      <Rectangle X="816" Y="516" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" Type="Terrain" XPosition="808" YPosition="0">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" Type="Terrain" XPosition="707" YPosition="0">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" Type="Terrain" XPosition="606" YPosition="0">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Heart" Type="Terrain" XPosition="202" YPosition="342">
+      <Rectangle X="714" Y="172" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Princess Girl" Type="Terrain" XPosition="202" YPosition="342">
+      <Rectangle X="408" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Princess Girl" Type="Terrain" XPosition="303" YPosition="342">
+      <Rectangle X="408" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Princess Girl" Type="Terrain" XPosition="808" YPosition="0">
+      <Rectangle X="408" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Horn Girl" Type="Terrain" XPosition="404" YPosition="342">
+      <Rectangle X="306" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Horn Girl" Type="Terrain" XPosition="505" YPosition="342">
+      <Rectangle X="306" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Boy" Type="Player" XPosition="505" YPosition="342">
+      <Rectangle X="102" Y="0" Width="101" Height="171" />
+    </Object>
+    <Object Name="Character Boy" Type="Player" XPosition="303" YPosition="171">
+      <Rectangle X="102" Y="0" Width="101" Height="171" />
+    </Object>
+  </Level>
+</Levels>
